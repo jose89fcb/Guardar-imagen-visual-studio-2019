@@ -1,0 +1,10 @@
+C:\Users\elmes\source\repos\GuardarImagen\GuardarImagen\bin\Debug\GuardarImagen.exe.config
+C:\Users\elmes\source\repos\GuardarImagen\GuardarImagen\bin\Debug\GuardarImagen.exe
+C:\Users\elmes\source\repos\GuardarImagen\GuardarImagen\bin\Debug\GuardarImagen.pdb
+C:\Users\elmes\source\repos\GuardarImagen\GuardarImagen\obj\Debug\GuardarImagen.csprojAssemblyReference.cache
+C:\Users\elmes\source\repos\GuardarImagen\GuardarImagen\obj\Debug\GuardarImagen.Form1.resources
+C:\Users\elmes\source\repos\GuardarImagen\GuardarImagen\obj\Debug\GuardarImagen.Properties.Resources.resources
+C:\Users\elmes\source\repos\GuardarImagen\GuardarImagen\obj\Debug\GuardarImagen.csproj.GenerateResource.cache
+C:\Users\elmes\source\repos\GuardarImagen\GuardarImagen\obj\Debug\GuardarImagen.csproj.CoreCompileInputs.cache
+C:\Users\elmes\source\repos\GuardarImagen\GuardarImagen\obj\Debug\GuardarImagen.exe
+C:\Users\elmes\source\repos\GuardarImagen\GuardarImagen\obj\Debug\GuardarImagen.pdb
