@@ -2,4 +2,5 @@
 
 
 Esto es solo una muestra
+<br>
 <img src="https://i.imgur.com/9slDHNk.png">
